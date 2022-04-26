@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeTechCase", "MeTechCase\MeTechCase.csproj", "{0644CDBC-9608-49E2-A4B2-6B233B01D87D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0644CDBC-9608-49E2-A4B2-6B233B01D87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0644CDBC-9608-49E2-A4B2-6B233B01D87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0644CDBC-9608-49E2-A4B2-6B233B01D87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0644CDBC-9608-49E2-A4B2-6B233B01D87D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D770181E-1396-4A08-AFBF-A8CB44CAAF32}
+	EndGlobalSection
+EndGlobal
