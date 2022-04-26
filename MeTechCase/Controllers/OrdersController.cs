@@ -56,6 +56,5 @@ namespace MeTechCase.Controllers
             using var client = new HttpClient();
             await client.PostAsync("https://eo35qwa9zbi7oi5.m.pipedream.net", new StringContent(JsonConvert.SerializeObject(order)));
         }
-
     }
 }
