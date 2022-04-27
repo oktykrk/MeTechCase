@@ -23,6 +23,17 @@ namespace MeTechCase
             services.AddControllersWithViews();
             services.AddDbContext<ApplicationDbContext>();
             services.AddSignalR();
+
+            services.AddCors(options =>
+            {
+                options.AddPolicy("cors policy",
+                                      policy =>
+                                      {
+                                          policy.AllowAnyOrigin()
+                                                .AllowAnyHeader()
+                                                .AllowAnyMethod();
+                                      });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -41,6 +52,8 @@ namespace MeTechCase
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseCors("cors policy");
 
             app.UseAuthorization();
 
