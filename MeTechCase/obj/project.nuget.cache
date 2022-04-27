@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uyQBy37HAA8bwbyIw9+blxpWgO6fKQIZbk1WTBCfoyLnuQdEbbbOXH1NdjuJF29TE2dzWuGO+sfX4a8oFvVdoQ==",
+  "dgSpecHash": "oAScbY+0UEK3s3rC5m8aAEIIsRe4EKTvqIwTTQOGZaz98AZrUr5Qi6Xl0xmGOJ6BhPtQSQ2o16/PIipdze+9KA==",
   "success": true,
   "projectFilePath": "C:\\Projects\\MeTechCase\\MeTechCase\\MeTechCase.csproj",
   "expectedPackageFiles": [
@@ -103,7 +103,11 @@
     "C:\\Users\\v-oktaykirik\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\v-oktaykirik\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\v-oktaykirik\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\v-oktaykirik\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\v-oktaykirik\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\v-oktaykirik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\v-oktaykirik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\v-oktaykirik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\v-oktaykirik\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
